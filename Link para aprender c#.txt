@@ -1,0 +1,20 @@
+links importantes :
+
+https://www.caelum.com.br/apostila-csharp-orientacao-objetos/o-que-e-c-e-net/#2-7-exercicios
+
+
+
+
+
+Baixar esse programa para executar aplicações criadas pelo visual  no pc do cliente 
+
+https://www.microsoft.com/en-us/download/details.aspx?id=40779
+
+
+
+
+https://social.msdn.microsoft.com/Forums/pt-br/home
+
+
+
+https://www.caelum.com.br/apostila-csharp-orientacao-objetos/
