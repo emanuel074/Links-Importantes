@@ -1,3 +1,23 @@
 https://github.com/fernandomayer/git-rautu/blob/master/1_comandos-basicos.md
 
 http://blog.dmatoso.com/2011/09/git-no-windows-github/
+
+
+
+git init
+
+git remote add origin git@github.com:emanuel074/Senai.git
+
+
+git config --global user.name "emanuel074"
+git config --global user.email "emanuelalmeida074@gmail.com"
+
+
+Para adicionar
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:emanuel074/projeto-dengue.git
+git push -u origin master
