@@ -21,3 +21,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:emanuel074/projeto-dengue.git
 git push -u origin master
+
+
+
+http://codexico.com.br/blog/linux/tutorial-simples-como-usar-o-git-e-o-github/
